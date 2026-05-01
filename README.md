@@ -151,7 +151,8 @@ const projects = [
 - **About**: `src/app/about/page.tsx`
 - **Footer**: `src/components/Footer.tsx`
 
-## 🚀 Deployment
+
+### 🚀 Deployment
 It is deplyed using Vercel tool
  
 <p align="center">Made with 💛 by <b>Raya Khasati</b></p>
