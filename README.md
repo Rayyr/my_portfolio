@@ -153,6 +153,6 @@ const projects = [
 
 
 ### 🚀 Deployment
-It is deplyed using Vercel tool
+It is deplyed using Vercel tool,the repo is connected with Vercel so it is automated deplyment only push your changes !
  
 <p align="center">Made with 💛 by <b>Raya Khasati</b></p>
