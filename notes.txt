@@ -1,0 +1,3 @@
+-vercel is free plan for deployment 
+-i log in to vercel using my GitHub 
+-i make account in foormspee using mu usual email 
