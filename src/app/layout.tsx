@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "John Doe - Full Stack Developer Portfolio",
-  description: "Personal portfolio of John Doe, a full stack developer specializing in React, Next.js, and modern web technologies.",
+  title: "RK Portfolio",
+  description: "My personal portfolio website",
 };
 
 export default function RootLayout({
